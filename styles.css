@@ -16,7 +16,21 @@ body {
     background-color: black;
 }
 
-a {
+.Fward {
     display: inline-block;
     transform: rotate(180deg);
+    color: cornflowerblue;
+}
+
+a { 
+    color: darkgray;      
+} 
+
+img {
+    max-width: 100%;
+
+}
+
+.center-text {
+    text-align: center;
 }
